@@ -18,3 +18,9 @@ PHub Premium|Description
 `PremiumP`  |Output the character signified by the cell at the pointer.
 `PremiumHub`|Jump past the matching `Ook? Ook!` if the cell under the pointer is 0.
 `HubPremium`|Jump back to the matching `Ook! Ook?` unless the cell under the pointer is 0.
+
+## Interpreter
+### Usage
+```
+$php interpreter.php <file>
+```
